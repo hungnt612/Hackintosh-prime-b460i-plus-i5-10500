@@ -1,3 +1,6 @@
+# Note
+All configurations in this repository are referenced from [vulgo/prime-b460i-plus-hackintosh](https://github.com/vulgo/prime-b460i-plus-hackintosh). Special thanks to the author for their excellent work and contribution to the Hackintosh community.
+
 # Prime B460i-PLUS hackintosh
 
 OpenCore configuration for running macOS 15 on the ASUS Prime B460i-PLUS motherboard. Without obsolete or cosmetic patches, the goal is simply macOS 15 working well on (mostly if you want WiFi) compatible hardware
